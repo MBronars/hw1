@@ -1,19 +1,24 @@
-while(getColor() != red)
+while(getColor() != red){
   down();
+}
 right();
 right();
-while(getColor() != red)
+while(getColor() != red){
   up();
+}
 right();
 right();
-while(getColor() != red)
+while(getColor() != red){
   down();
+}
 right();
 right();
-while(getColor() != red)
+while(getColor() != red){
   up();
+}
 right();
 right();
-while(getColor() != red)
+while(getColor() != red){
   down();
+}
 right();
