@@ -1,21 +1,27 @@
 right();
 right();
-if(getColor() == 'blue')
+if(getColor() == 'blue'){
   down();
-else
+}
+else{
   up();
+}
 right();
 right();
-if(getColor() == 'blue')
+if(getColor() == 'blue'){
   down();
-else
+}
+else{
   up();
+}
 right();
 right();
-if(getColor() == 'blue')
+if(getColor() == 'blue'){
   down();
-else
+}
+else{
   up();
+}
 right();
 right();
 right();
